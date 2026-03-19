@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git add -f krayin-docker/ && git status\",\"description\":\"Force add krayin-docker folder\"}",
+  "error": "Exit code 128\nfatal: Unable to create '/Users/chrisqian/Development/projects/laravel-crm/.git/index.lock': Operation not permitted",
+  "timestamp": "2026-03-19T13:58:25.025Z",
+  "retry_count": 1
+}

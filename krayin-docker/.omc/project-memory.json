@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773924318297,
+  "projectRoot": "/Users/chrisqian/Development/projects/laravel-crm/krayin-docker",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "bin"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "bin": {
+      "path": "bin",
+      "purpose": "Executable scripts",
+      "fileCount": 2,
+      "lastAccessed": 1773924318277,
+      "keyFiles": [
+        "mysql-container.sh",
+        "php-apache-container.sh"
+      ]
+    },
+    "workspace": {
+      "path": "workspace",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773924318278,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "Dockerfile",
+      "accessCount": 7,
+      "lastAccessed": 1773927233366,
+      "type": "file"
+    },
+    {
+      "path": "docker-compose.yml",
+      "accessCount": 2,
+      "lastAccessed": 1773926187760,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
